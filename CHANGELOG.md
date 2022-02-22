@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.1] - 2022-02-24
+### Fixed
+- Revert rename of package since it must match the TS typedefs
+
 ## [2.3.0] - 2022-02-24
 ### Changed
 - Made React dependencies into peer dependencies

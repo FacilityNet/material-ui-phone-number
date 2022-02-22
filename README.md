@@ -1,4 +1,4 @@
-# material-ui-phone-number-gopay
+# material-ui-phone-number
 Highly customizable phone input component with auto formatting. Based on the wonderful [material-ui-phone-number](https://github.com/alexplumb/material-ui-phone-number) package.
 
 It looks like this, but in Material Design:
